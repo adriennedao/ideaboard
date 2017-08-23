@@ -1,4 +1,4 @@
-## Idea Board
+## Idea Board Tutorial ##
 
-- An Idea board front-end app built with create-react-app
-- Backend API
+- React front-end app built with create-react-app
+- Backend Rails API
